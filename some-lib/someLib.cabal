@@ -16,7 +16,7 @@ maintainer:          ddellacosta@gmail.com
 extra-source-files:  CHANGELOG.md
 
 library
-  exposed-modules:     SomeLib 
+  exposed-modules:     SomeLib
   -- other-modules:
   -- other-extensions:
   build-depends:       base ^>=4.13.0.0
